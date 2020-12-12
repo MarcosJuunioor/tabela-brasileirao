@@ -1,0 +1,17 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21/09/2019, 19:48:18
+    Author     : marco
+*/
+body{
+    background:gainsboro;
+}
+
+#botao_voltar{
+    margin-left: 42.5%;
+    margin-right: 40%;
+}
